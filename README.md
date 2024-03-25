@@ -14,6 +14,11 @@ Solution: I built this web application as a means for collecting all of the data
 ![Pit Scouting App Preview](https://github.com/candace-sun/frc-pit-scouting-app/blob/main/pit%20scouting%20app%201.PNG)
 
 ## Technologies
-* React.js: handles modular components of the application, such as the table of teams, form input, login/signup pages, etc
+* React.js: handles front-end modular components of the application, such as the table of teams, form input, login/signup pages, etc
 * Firebase: Firestore Database, Authentication, Web Hosting, Cloud Storage, CLI
 * CSS/HTML
+
+## What I Learned
+* Designing data storage architecture for data and images, and updating them synchronously 
+* Optimal parent/child component arrangements in React and managing states between them
+* How to request and process data from APIs; the initial API I tried to use (FIRST) had CORS restrictions, so I chose to use another one
