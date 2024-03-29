@@ -1,5 +1,5 @@
 # FIRST Robotics Competition Pit Scouting Application
-Problem: FIRST Robotics teams are incentivized to record data such as the various skills and capabilities of other teams to decide on potential alliances. My sister's team did not have a convenient and centralized system to do so efficiently, relying on paper notes and time-consuming forms that made this process not as helpful as it should be. 
+Problem: FIRST Robotics teams are incentivized to record data such as the various skills and capabilities of other teams to decide on potential alliances; this process is known as pit scouting. My sister's local team did not have a convenient and centralized system to do so efficiently, relying on paper notes and time-consuming forms that made this process not as helpful as it should be. 
 
 Solution: I built this web application as a means for collecting all of the data needed in one place. It is additionally quite scalable, as it can be used by any team and for any event. They were able to make full use of this app during their most recent Districts competition with 30+ teams.
 
